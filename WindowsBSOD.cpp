@@ -1,4 +1,4 @@
-﻿// WindowsBSOD.cpp: Definiert den Einstiegspunkt für die Konsolenanwendung.
+﻿// WindowsBSOD.cpp: Defines the entry point for the console application.
 //
 
 #include <Windows.h>
